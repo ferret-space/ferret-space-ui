@@ -1,0 +1,44 @@
+.logo {
+  background: url('../assets/logo.svg') no-repeat center center;
+  width: 56px;
+  height: 56px;
+  margin-right: 10px;
+}
+
+.header {
+  background-color: #171a21 !important;
+}
+
+.header .title a {
+  color: #fff;
+}
+
+.header .title a:hover,
+.header-nav:hover {
+  color: #5595d3;
+  text-decoration: none;
+}
+
+.main-container .content-container .content-area {
+  padding: 0 1rem 1rem 1rem !important;
+}
+
+.userDetails {
+  margin: 0;
+  padding: 5px;
+  background-color: #f9f9f9;
+}
+
+.userDetails h2 {
+  font-size: 1em;
+  font-weight: bolder;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
+}
+
+.userDetails p {
+  margin: 0;
+  font-size: 0.8em;
+  color: blue;
+}
